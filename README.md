@@ -1,3 +1,5 @@
+Live version here : http://farazpatankar.github.io/Udacity-Project-4/
+
 I decided to do the project from scratch all over again. I have listed the changes I have made to the original files below, the changes are also present in the form of comments in the actual files.
 The pagespeed scores for index.html are above 90 for both Mobile and Desktop.
 The time to resize pizzas is less than 5ms and the page scrolls at 60fps.
