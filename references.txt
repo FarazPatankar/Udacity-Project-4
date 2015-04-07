@@ -1,0 +1,6 @@
+List of references :
+1) Office Hours
+2) Udacity Forums
+3) Github
+4) Several articles on obtaining 60fps frame rate.
+5) Various minifiers and image optimization tools.
