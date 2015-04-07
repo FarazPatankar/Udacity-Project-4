@@ -1,9 +1,19 @@
-Live version here : http://farazpatankar.github.io/Udacity-Project-4/
+Launching the Project:
+1) User can either clone the repository or download the zip file and then navigate to their local copy of the index.html file.
+
+2) Another option would be to use the live version hosted here : http://farazpatankar.github.io/Udacity-Project-4/
 
 I decided to do the project from scratch all over again. I have listed the changes I have made to the original files below, the changes are also present in the form of comments in the actual files.
 The pagespeed scores for index.html are above 90 for both Mobile and Desktop.
 The time to resize pizzas is less than 5ms and the page scrolls at 60fps.
 I have also provided comments in the main.js file that explain the changes I have made.
+
+Submission 2:
+1) Updated readme with launch instructions.
+2) Added a separate pizzeria image file to improve user experience on pizza.html
+3) I included the fonts because an instructor on the forums encouraged us to try and include them. Although my initial idea was what you suggested, which was getting rid of them :P
+
+Submission 1:
 
 Optimizations in index.html :
 1) Inlined the style.css file and added media="print" to the print stylesheet.
